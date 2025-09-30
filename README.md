@@ -4,6 +4,8 @@
 🚀 Focado em aprender e criar soluções  
 📚 Atualmente estudando para concursos e aprofundando em programação  
 ✨ “Sempre aprendendo, sempre evoluindo.”
+📫 Me encontre:
+- LinkedIn: [seulinkedin](https://www.linkedin.com/in/victor-mateus-567746275/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
